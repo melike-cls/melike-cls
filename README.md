@@ -11,6 +11,7 @@ I'm Fullstack Developer trainee @Clarusway
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melike-%C3%A7ali%C5%9F-fullstackdeveloper/)
 &nbsp;
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:melikecalis92@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/melike-cls) 
 
 ## Languages and Tools:
 
