@@ -1,5 +1,6 @@
-### Hey,  I'm Melike <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
+<h1 align='center'> Hey, I'm Melike  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
+<br>
 I'm Fullstack Developer trainee @Clarusway
 
 - 🔭 I’m currently working on JavaScript | React | Bootstrap | SASS | HTML | CSS | Python | SQL | Linux | GİT
