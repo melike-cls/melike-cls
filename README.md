@@ -8,7 +8,7 @@ I'm Fullstack Developer trainee @Clarusway
 
 🔗 &nbsp;**Connect with me**
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/melike-%C3%A7ali%C5%9F-fullstackdeveloper/)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melike-%C3%A7ali%C5%9F-fullstackdeveloper/)
 &nbsp;
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:melikecalis92@gmail.com)
 
