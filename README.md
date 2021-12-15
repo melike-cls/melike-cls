@@ -26,3 +26,8 @@ I'm Fullstack Developer trainee @Clarusway
 <img align="left" alt="Js" width="50px" src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
 <img align="left" alt="React" width="50px" src="https://img.icons8.com/bubbles/50/000000/react.png"/>
 <img align="left" alt="Sass" width="50px"  src="https://img.icons8.com/color/48/000000/sass.png"/>
+<br>
+<br>
+<br>
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=melike-cls&show_icons=true&theme=radical)
