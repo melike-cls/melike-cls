@@ -10,7 +10,7 @@ I'm Fullstack Developer trainee @Clarusway
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/melike-%C3%A7ali%C5%9F-fullstackdeveloper/)
 &nbsp;
-📧 melikecalis92@gmail.com
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:melikecalis92@gmail.com)
 
 ## Languages and Tools:
 
